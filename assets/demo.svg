@@ -4,12 +4,12 @@
 <rect x="1" y="1" width="658" height="266" rx="13" fill="none" stroke="#ffffff18"/>
 <circle cx="26" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="66" cy="24" r="6" fill="#28c840"/>
 <text x="330" y="29" font-family="Menlo,monospace" font-size="12" fill="#8b949e" text-anchor="middle">terminal</text>
-<text x="30" y="66" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="$ ">#3fb950</tspan><tspan fill="greeks.py price --spot 100 --strike 105 -t 0.5 -r 0.05 -v 0.25">#e6edf3</tspan></text>
-<text x="30" y="90" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="{">#e6edf3</tspan></text>
-<text x="30" y="114" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="  "call": ">#e6edf3</tspan><tspan fill="5.9885">#e3b341</tspan><tspan fill=",   "put": ">#e6edf3</tspan><tspan fill="8.396">#79c0ff</tspan><tspan fill=",">#e6edf3</tspan></text>
-<text x="30" y="138" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="  "delta_call": ">#e6edf3</tspan><tspan fill="0.48158">#3fb950</tspan><tspan fill=",   "delta_put": ">#e6edf3</tspan><tspan fill="-0.51842">#f85149</tspan><tspan fill=",">#e6edf3</tspan></text>
-<text x="30" y="162" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="  "gamma": 0.022544,   "vega_per_1pct": 0.281794,">#e6edf3</tspan></text>
-<text x="30" y="186" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="  "theta_call_per_day": -0.025078,   "rho_call_per_1pct": 22.14,">#e6edf3</tspan></text>
-<text x="30" y="210" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="  "parity_residual": ">#e6edf3</tspan><tspan fill="0.0">#3fb950</tspan><tspan fill=",">#e6edf3</tspan></text>
-<text x="30" y="234" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="}">#e6edf3</tspan></text>
+<text x="30" y="66" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">greeks.py price --spot 100 --strike 105 -t 0.5 -r 0.05 -v 0.25</tspan></text>
+<text x="30" y="90" font-family="Menlo,monospace" font-size="14" fill="#e6edf3" xml:space="preserve">{</text>
+<text x="30" y="114" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#e6edf3">  "call": </tspan><tspan fill="#e3b341">5.9885</tspan><tspan fill="#e6edf3">,   "put": </tspan><tspan fill="#79c0ff">8.396</tspan><tspan fill="#e6edf3">,</tspan></text>
+<text x="30" y="138" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#e6edf3">  "delta_call": </tspan><tspan fill="#3fb950">0.48158</tspan><tspan fill="#e6edf3">,   "delta_put": </tspan><tspan fill="#f85149">-0.51842</tspan><tspan fill="#e6edf3">,</tspan></text>
+<text x="30" y="162" font-family="Menlo,monospace" font-size="14" fill="#e6edf3" xml:space="preserve">  "gamma": 0.022544,   "vega_per_1pct": 0.281794,</text>
+<text x="30" y="186" font-family="Menlo,monospace" font-size="14" fill="#e6edf3" xml:space="preserve">  "theta_call_per_day": -0.025078,   "rho_call_per_1pct": 22.14,</text>
+<text x="30" y="210" font-family="Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#e6edf3">  "parity_residual": </tspan><tspan fill="#3fb950">0.0</tspan><tspan fill="#e6edf3">,</tspan></text>
+<text x="30" y="234" font-family="Menlo,monospace" font-size="14" fill="#e6edf3" xml:space="preserve">}</text>
 </svg>
